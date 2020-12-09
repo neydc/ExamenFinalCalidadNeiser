@@ -98,3 +98,9 @@ C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcor
 C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.AssemblyInfo.cs
 C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.csproj.CopyComplete
 C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\bin\Debug\netcoreapp3.1\Pruebas.pdb
+C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.dll
+C:\Users\Administrador\source\repos\Calidad_NeiserFinal\Pruebas\obj\Debug\netcoreapp3.1\Pruebas.pdb
